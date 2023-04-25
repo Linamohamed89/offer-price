@@ -1,0 +1,174 @@
+body {
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+section{
+    background-color:#F7F7F7 ;
+}
+.container{
+  
+    padding-bottom: 109px;
+    margin-top: 125px;
+}
+.myrow {
+    margin-top: 10px;
+}
+h2{
+    margin: 205px 42px 1rem 113px;
+font-family: 'Montserrat', sans-serif;
+font-weight: 600;
+line-height: 1.21;
+color: initial;
+font-size: 37px;
+}
+.card-body {
+    padding: 10 0px;
+}
+
+.border {
+    color: #F7F7F7;
+    padding-left: 29px;
+    margin-top: 118px;
+    height: 496px;
+    width: 296px;
+    margin-left: 30px;
+}
+
+.price {
+    font-weight: 700;
+    color: #707070;
+} 
+
+.h1 {
+    color: #707070;
+}
+a {
+    border-radius: 7%;
+    background-color: aliceblue;
+    color: #7202BB;
+    border-radius: 5%;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 15 45px;
+}
+.border {
+    color: #7202BB;
+}
+.card-text {
+    border-radius: 3%;
+    background: #fff;
+}
+
+.card-text:hover {
+    box-shadow: 0 1rem 3rem rgba(31,45,61,.125) !important;
+    transform: translate(0, -5px);
+    border-top: 4px solid #7202bb !important;
+}
+
+.card-text1 {
+    border-radius: 3%;
+    border-top: 4px solid #7202bb !important;
+    box-shadow: 0 1rem 3rem rgba(31,45,61,.125) !important;
+    background: #fff;
+}
+
+.card-text1:hover {
+    transform: translate(0, -5px);
+}
+
+h5 {
+    text-align: center !important;
+    margin: 0 0 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    line-height: 1.21;
+    color: initial;
+    padding-top: 25px;
+  }
+
+  .list-unstyled {
+    text-align: center;
+  }
+  .lead{
+    font-size: 18px;
+    font-weight: 300;
+    margin: 3px 37px 2rem 118px;
+  }
+
+  .link_button2
+  {
+    border-radius: 0 7px 7px 0;
+    border: solid 1px #7202BB;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: #fff;
+    color:  #222;
+    padding: 9px 14px;
+    text-decoration: none;
+    margin-left: 0px;
+  }
+  
+  .link_button3 {
+    border-radius: 7px 0 0 7px;
+    border: solid 1px #7202BB;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: #7202BB !important;
+    color: #FFF;
+    padding: 9px 14px;
+    text-decoration: none;
+    margin-left: 115px;
+}
+  ul li {
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(132, 146, 166);
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.link_button {
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 4px;
+    border-radius: 26px;
+    border: solid 1px #7202BB;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: #fff;
+    color:  #7202BB;
+    padding: 12px 18px;
+    text-decoration: none;
+    margin-left: 47px;
+}
+.link_button:hover {
+    color: #fff;
+    background: #7202BB;
+}
+
+.link_button1 {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 26px;
+    border: solid 1px #7202BB;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: #7202BB;
+    color: #FFF;
+    padding: 12px 18px;
+    text-decoration: none;
+    margin-left: 47px;
+}
+
+.link_button1:hover {
+    color: #7202BB;
+    background: #fff;
+}
